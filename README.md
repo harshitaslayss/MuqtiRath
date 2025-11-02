@@ -28,5 +28,3 @@ Tools & Technologies
 About This Fork
 
 This fork highlights my **frontend and UI/UX contributions** to the *MuktiRath* hackathon project, developed collaboratively by our team.
-
-Would you like me to shorten it into a **minimal GitHub README format** (just 2–3 sections, cleaner layout)?
