@@ -1,6 +1,6 @@
 MuktiRath — Empowering Women Through Digital Access
 
-**MuktiRath** is a social impact project built during a hackathon. It aims to connect women stuck in prostitution with NGOs that can support their rehabilitation, skill training, and employment. The platform ensures safety, dignity, and accessibility.
+**MuktiRath** is a social impact project built by our team, Unchained during MAIT-CSI Innowave 2025. It aims to connect women stuck in prostitution with NGOs that can support their rehabilitation, skill training, and employment. The platform ensures safety, dignity, and accessibility.
 
 🔗 **Live Demo:** [muktirath.vercel.app](https://muktirath.vercel.app)
 
