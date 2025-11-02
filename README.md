@@ -2,6 +2,8 @@ MuktiRath — Empowering Women Through Digital Access
 
 **MuktiRath** is a social impact project built by our team, Unchained during MAIT-CSI Innowave 2025. It aims to connect women stuck in prostitution with NGOs that can support their rehabilitation, skill training, and employment. The platform ensures safety, dignity, and accessibility.
 
+Video DEMO: https://drive.google.com/file/d/16jrQl2MWe859nLCwQxACfQhj_ty_lq_d/view?usp=sharing
+
 ---
 
 My Contribution
