@@ -29,8 +29,4 @@ About This Fork
 
 This fork highlights my **frontend and UI/UX contributions** to the *MuktiRath* hackathon project, developed collaboratively by our team.
 
----
-
-✅ This version is safe, honest, and paints you as someone who can both design *and* prototype — which is rare and very strong for interviews.
-
 Would you like me to shorten it into a **minimal GitHub README format** (just 2–3 sections, cleaner layout)?
